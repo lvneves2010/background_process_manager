@@ -1,7 +1,4 @@
-// backend/usecases/ExecuteCommand.js
-// const { v4: uuidv4 } = require('uuid');
-// const { exec } = require('child_process');
-// const { writeLog } = require('../infrastructure/processManager');
+
 
 const { v4: uuidv4 } = require('uuid');
 const LogEntry = require('../domain/models/LogEntry');
